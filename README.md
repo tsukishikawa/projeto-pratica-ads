@@ -2,12 +2,13 @@
 
 DayPlan é uma ferramenta simples e minimalista, funcionando como um gerenciador de tarefas das suas atividades diárias, permitindo saber e priorizar o que precisa fazer agora ou depois.
 
-# Como usar o DayPlan
+# Como usar o DayPlan - 1ª versão alpha
 
-Para começar a usar o DayPlan é muito simples, basta criar uma conta de usuário e começar a usar a primeira versão alpha no link a seguir:
-https://app-prod.d31dr6nrfnggmy.amplifyapp.com/. 
+Para começar a usar o DayPlan é muito simples:
 
-  - Após criar a conta, você pode adicionar uma nova lista de tarefas e organizar cada uma nas abas "Fazer Hoje" e "Organizar".
+  - Acesse o link: https://app-prod.d31dr6nrfnggmy.amplifyapp.com/ 
+  - Crie uma conta de usuário.
+  - Clique no botão verde + e para adicionar e organizar uma nova lista de tarefas em cada uma nas abas "Fazer Hoje" e "Organizar".
   - Preencha os campos obrigatórios como título e categoria, o restante como hora, descrição e outros são opcionais, mas podem ser preenchidos para organização mais eficiente. 
     O título da tarefa tem um limite de 100 caracteres, a categoria 20 e a descrição 200. Obs.: A descrição da tarefa só fica disponível para ser vista após a criação na pré-visualização de edição, sendo possível acessá-la apenas clicando em cima da tarefa.
   - Se quiser definir uma data e hora para que a tarefa vá automaticamente para "Fazer Hoje", preencha o campo "Mover para lista de hoje em".
