@@ -1,5 +1,5 @@
 # DayPlan - Organize seu tempo
-
+<div align='center'><img src="https://github.com/user-attachments/assets/7d7570ce-0356-4114-b15e-4dafaf5a6c6e" width="200px" style='margin: auto;' /></div>
 DayPlan é uma ferramenta simples e minimalista, funcionando como um gerenciador de tarefas das suas atividades diárias, permitindo saber e priorizar o que precisa fazer agora ou depois.
 
 # Como usar o DayPlan - 1ª versão alpha
