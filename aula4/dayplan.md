@@ -12,7 +12,7 @@ d) O sistema deverá permitir que o usuário marque as tarefas por status (concl
 
 ## 1. Diagrama de casos de uso
 ``` plantuml
-@startumml
+@startuml
 left to right direction
 
 actor Usuário
