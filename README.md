@@ -27,8 +27,13 @@ Para começar a usar o DayPlan é muito simples:
   - Para começar é necessário ter uma conta AWS (qualquer conta)
   - Instale o AWS CLI (use o guia de instalação oficial da AWS)  
   - Após isso configure um perfil com o nome 'DayPlanAdmin'
+  - Abra o terminal na pasta codigo-fonte
   - Execute `npm install` (precisa ter o Node.js instalado)
-  - No terminal, dentro da pasta do projeto, execute `npm run start` para iniciar a aplicação localmente
+  - Depois, execute `npm run start` para iniciar a aplicação localmente
+    
+## Repository Link
+
+ - Nesse repositório acontecem os Deploys: https://github.com/DDanDev/DayPla
  
 # Saiba mais sobre o DayPlan
 
