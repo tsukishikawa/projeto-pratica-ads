@@ -33,7 +33,7 @@ Para começar a usar o DayPlan é muito simples:
     
 ## Repository Link
 
- - Nesse repositório acontecem os Deploys: https://github.com/DDanDev/DayPla
+ - Nesse repositório acontecem os Deploys: [https://github.com/DDanDev/DayPlan](https://github.com/DDanDev/DayPlan)
  
 # Saiba mais sobre o DayPlan
 
@@ -62,6 +62,3 @@ https://drive.google.com/file/d/1dmN4STTQ-c5m98YIBbw5wlnJWtUlDnc8/view?usp=shari
 # Feedback
 
 Nos ajude a aprimorar nosso aplicativo, comentando, dando dicas, sugestões de melhorias e correções!
-
-## Iteração 2
-Atualização para a segunda etapa do projeto.
