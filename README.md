@@ -6,7 +6,7 @@ DayPlan é uma ferramenta simples e minimalista, funcionando como um gerenciador
 
 Para começar a usar o DayPlan é muito simples:
 
-  - Acesse o link: https://app-prod.d31dr6nrfnggmy.amplifyapp.com/ 
+  - Acesse o link: https://www.dayplan.com.br 
   - Crie uma conta de usuário.
   - Clique no botão verde + e para adicionar e organizar uma nova lista de tarefas em cada uma nas abas "Fazer Hoje" e "Organizar".
   - Preencha os campos obrigatórios como título e categoria, o restante como hora, descrição e outros são opcionais, mas podem ser preenchidos para organização mais eficiente. 
@@ -51,3 +51,17 @@ Nos ajude a aprimorar nosso aplicativo, comentando, dando dicas, sugestões de m
 
 ## Iteração 2
 Atualização para a segunda etapa do projeto.
+
+
+## Release Notes - DayPlan v0.0.2 (Iteração2)
+Novidades e mudanças desde a versão v0.0.1:
+
+Adição de instruções detalhadas no README.md para facilitar a execução do projeto por desenvolvedores.
+
+Atualização do rodapé (footer) para refletir a nova versão (0.0.2).
+
+Inclusão do arquivo comentario.md com observações específicas da Iteração 2.
+
+Pull Request #13: Ajustes visuais e correções nos estilos do componente de tarefas.
+
+Pull Request #14: Implementação de melhoria na reatividade do layout em dispositivos móveis.
