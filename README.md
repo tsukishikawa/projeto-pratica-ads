@@ -60,6 +60,3 @@ Adição de instruções detalhadas no README.md para facilitar a execução do 
 
 Atualização do rodapé (footer) para refletir a nova versão (0.0.3).
 
-Pull Request #13: Ajustes visuais e correções nos estilos do componente de tarefas.
-
-Pull Request #14: Implementação de melhoria na reatividade do layout em dispositivos móveis.
