@@ -2,11 +2,12 @@
 <div align='center'><img src="https://github.com/user-attachments/assets/7d7570ce-0356-4114-b15e-4dafaf5a6c6e" width="200px" style='margin: auto;' /></div>
 DayPlan é uma ferramenta simples e minimalista, funcionando como um gerenciador de tarefas das suas atividades diárias, permitindo saber e priorizar o que precisa fazer agora ou depois.
 
+   
 # Como usar o DayPlan - 1ª versão alpha
 
 Para começar a usar o DayPlan é muito simples:
 
-  - Acesse o link: https://app-prod.d31dr6nrfnggmy.amplifyapp.com/ 
+  - Acesse o link: https://www.dayplan.com.br 
   - Crie uma conta de usuário.
   - Clique no botão verde + e para adicionar e organizar uma nova lista de tarefas em cada uma nas abas "Fazer Hoje" e "Organizar".
   - Preencha os campos obrigatórios como título e categoria, o restante como hora, descrição e outros são opcionais, mas podem ser preenchidos para organização mais eficiente. 
@@ -20,6 +21,19 @@ Para começar a usar o DayPlan é muito simples:
   - Na aba Lixeira, tem um botão "Esvaziar Lixeira" para eliminar todas as tarefas de uma só vez. Nessa aba, cada vez que clicar para eliminar uma tarefa, verá uma caixa de diálogo de confirmação padrão do navegador.
   - Para voltar a página inicial do login, é só clicar no logotipo do DayPlan na parte superior central da página.
   - Para sair da conta é só clicar no botão inferior do lado esquerdo "sair da conta".
+
+## Como executar o DayPlan em seu computador pessoal 
+
+  - Para começar é necessário ter uma conta AWS (qualquer conta)
+  - Instale o AWS CLI (use o guia de instalação oficial da AWS)  
+  - Após isso configure um perfil com o nome 'DayPlanAdmin'
+  - Abra o terminal na pasta codigo-fonte
+  - Execute `npm install` (precisa ter o Node.js instalado)
+  - Depois, execute `npm run start` para iniciar a aplicação localmente
+    
+## Repository Link
+
+ - Nesse repositório acontecem os Deploys: [https://github.com/DDanDev/DayPlan](https://github.com/DDanDev/DayPlan)
  
 # Saiba mais sobre o DayPlan
 
@@ -48,6 +62,3 @@ https://drive.google.com/file/d/1dmN4STTQ-c5m98YIBbw5wlnJWtUlDnc8/view?usp=shari
 # Feedback
 
 Nos ajude a aprimorar nosso aplicativo, comentando, dando dicas, sugestões de melhorias e correções!
-
-## Iteração 2
-Atualização para a segunda etapa do projeto.
