@@ -2,6 +2,14 @@
 <div align='center'><img src="https://github.com/user-attachments/assets/7d7570ce-0356-4114-b15e-4dafaf5a6c6e" width="200px" style='margin: auto;' /></div>
 DayPlan é uma ferramenta simples e minimalista, funcionando como um gerenciador de tarefas das suas atividades diárias, permitindo saber e priorizar o que precisa fazer agora ou depois.
 
+## Como executar o Dayplan em seu computador pessoal
+
+  - Para começar é necessário ter uma conta AWS (qualquer conta)
+  - Instale o AWS CLI (use o guia de instalação oficial da AWS)  
+  - Após isso configure um perfil com o nome 'DayPlanAdmin
+  - Execute 'npm run install' (precisa ter o Node.js instalado)
+  - No terminal, dentro da pasta do projeto, execute 'npm install' para iniciar a aplicação localmente
+    
 # Como usar o DayPlan - 1ª versão alpha
 
 Para começar a usar o DayPlan é muito simples:
@@ -51,12 +59,3 @@ Nos ajude a aprimorar nosso aplicativo, comentando, dando dicas, sugestões de m
 
 ## Iteração 2
 Atualização para a segunda etapa do projeto.
-
-
-## Release Notes - DayPlan v0.0.2 (Iteração2)
-Novidades e mudanças desde a versão v0.0.1:
-
-Adição de instruções detalhadas no README.md para facilitar a execução do projeto por desenvolvedores.
-
-Atualização do rodapé (footer) para refletir a nova versão (0.0.3).
-
