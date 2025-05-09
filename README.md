@@ -58,7 +58,7 @@ Novidades e mudanças desde a versão v0.0.1:
 
 Adição de instruções detalhadas no README.md para facilitar a execução do projeto por desenvolvedores.
 
-Atualização do rodapé (footer) para refletir a nova versão (0.0.2).
+Atualização do rodapé (footer) para refletir a nova versão (0.0.3).
 
 Inclusão do arquivo comentario.md com observações específicas da Iteração 2.
 
