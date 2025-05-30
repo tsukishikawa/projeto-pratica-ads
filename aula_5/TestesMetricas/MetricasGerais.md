@@ -8,10 +8,10 @@
 
 Cobertura de Testes (implementados) = $\frac{T_i}{R_{ft}} = \frac{13}{13} = 1 = 100\%$
 
-**$T_{x}$ (Quantidade de testes executados) = 7**
+**$T_{x}$ (Quantidade de testes executados) = 5**
 
-Cobertura de Testes (executados) = $\frac{T_x}{R_{ft}} = \frac{7}{13} = 0,5385 = 53,85\%$
+Cobertura de Testes (executados) = $\frac{T_x}{R_{ft}} = \frac{5}{13} = 0,3846 = 38,46\%$
 
-**$T_{s}$ (Quantidade de testes bem-sucedidos) = 6**
+**$T_{s}$ (Quantidade de testes bem-sucedidos) = 5**
 
-Cobertura de Testes (bem-sucedidos) = $\frac{T_s}{R_{ft}} = \frac{6}{13} = 0,4615 = 46,15\%$
+Cobertura de Testes (bem-sucedidos) = $\frac{T_s}{R_{ft}} = \frac{5}{13} = 0,3846 = 38,46\%$
