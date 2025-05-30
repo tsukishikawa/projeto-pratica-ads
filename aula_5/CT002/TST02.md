@@ -9,11 +9,11 @@ a) O usuário deverá estar logado no sistema.
 
 | Nome          | Login    | Senha  |
 |----------     | ------   |------  |
-| usuario_teste | silvaniagoularte@hotmail.com | Usu@ri0teste |
+| usuario_teste | autenticacaotestes@gmail.com | Autenticacao123@ |
 
 b) Credenciais deverão estar cadastradas no sistema.
 * Username: usuario_teste
-* Senha: Usu@ri0teste
+* Senha: Autenticacao123@
 
 c) Após logar, aparecerá a tarefa existente.
 
